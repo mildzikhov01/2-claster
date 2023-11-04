@@ -50,3 +50,8 @@
 
 ### Ответ
 
+![1](Screenshot_11.png)`
+
+![1](Screenshot_12.png)`
+
+Конфигурационный файл HAProxy находится [здесь](https://github.com/mildzikhov01/2-claster/blob/main/haproxy2.cfg)

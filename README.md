@@ -50,7 +50,7 @@
 
 ### Ответ
 
-![1](Screenshot_11.png)`
+![1](Screenshot_15.png)`
 
 ![1](Screenshot_12.png)`
 

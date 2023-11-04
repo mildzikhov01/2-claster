@@ -24,6 +24,8 @@
 
 ### Ответ
 
+Были созданы два simple python сервера
+
 ![1](Screenshot_1.png)`
 
 ![1](Screenshot_2.png)`
@@ -31,6 +33,7 @@
 ![1](Screenshot_7.png)`
 
 ![1](Screenshot_9.png)`
+
 
 ---
 
